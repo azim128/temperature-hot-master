@@ -1,0 +1,6 @@
+export{default as Blog} from './blog/Blog'
+export{default as Features} from './feature/Features'
+export{default as Header} from './Header/Header'
+export{default as possibility} from './possibility/Possibility'
+export{default as Footer} from './Footer/Footer'
+export{default as What} from './what/What'
