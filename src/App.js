@@ -16,6 +16,7 @@ const App = () => {
      <Possibility/>
      <Cta/>
      <Blog/>
+     <Blog/>
      <Footer/>
     </div>
   )
